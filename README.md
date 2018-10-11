@@ -1,1 +1,3 @@
 # sqldevel
+
+updating the readme
