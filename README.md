@@ -1,3 +1,3 @@
 # sqldevel
 
-updating the readme
+updating the readme for new branch
